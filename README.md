@@ -20,7 +20,8 @@ If you want to **get involved** with Leaflet development, check out the [contrib
 Let's make the best mapping library that will ever exist,
 and push the limits of what's possible with online maps!
 
-[![Build Status](https://travis-ci.org/Leaflet/Leaflet.svg?branch=master)](https://travis-ci.org/Leaflet/Leaflet)
+[![Build Status](https://travis-ci.org/Leaflet/Leaflet.svg?branch=master)](https://travis-ci.org/Leaflet/Leaflet)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKeshavGeek%2FLeaflet.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKeshavGeek%2FLeaflet?ref=badge_shield)
+
 
  [contributors]: https://github.com/Leaflet/Leaflet/graphs/contributors
  [features]: http://leafletjs.com/#features
@@ -32,3 +33,7 @@ and push the limits of what's possible with online maps!
  [official website]: http://leafletjs.com
  [download page]: http://leafletjs.com/download.html
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKeshavGeek%2FLeaflet.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKeshavGeek%2FLeaflet?ref=badge_large)
